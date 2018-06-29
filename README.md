@@ -1,8 +1,11 @@
 # BOP27 genome Genbank file built from the NC_000913 version 3 genome.
-Difference between the BOP27 and NC_000913 are:  
+Difference between the BOP27 and NC_000913 version are:  
 1. Deletion of 2 basepairs at 2173363 (gatC) 
 2. Insertion of 'G' at 3560456 (glpR)  
-3. Insertion of 'CG' at 4296381 (gltP/yjcO)
+3. Insertion of 'CG' at 4296381 (gltP/yjcO)  
+
+These differences are detailed at the following:
+http://systemsbiology.ucsd.edu/BOP27_sequence
 
 # Running the script
 1. Install `bioconda`: a straight-forward and very successful way of doing this is by installing the Anaconda Python computational tools distribution (https://www.anaconda.com/download).
