@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301237.svg)](https://doi.org/10.5281/zenodo.1301237)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1301236.svg)](https://doi.org/10.5281/zenodo.1301236)
 # BOP27 genome Genbank file built from the NC_000913 version 3 genome.
 Difference between the BOP27 and NC_000913 version are:  
 1. Deletion of 2 basepairs at 2173363 (gatC) 
